@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\webapplication4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\webapplication4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|d:\\c#code\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE964813-2CD1-426F-A50C-511362CA5841}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\WeatherForecast.cs",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication4\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:49:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.Development.json",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T12:49:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:49:35.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication4\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T12:47:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication4",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+              "RelativeDocumentMoniker": "WebApplication4\\WebApplication4.csproj",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+              "RelativeToolTip": "WebApplication4\\WebApplication4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T12:47:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication4\\appsettings.json",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\appsettings.json",
+              "RelativeToolTip": "WebApplication4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T12:47:06.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "D:\\c#Code\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:46:58.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

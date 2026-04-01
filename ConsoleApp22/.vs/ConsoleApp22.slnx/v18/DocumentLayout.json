@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\ConsoleApp22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|d:\\c#code\\consoleapp22\\consoleapp22\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|d:\\c#code\\consoleapp22\\consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|d:\\c#code\\consoleapp22\\consoleapp22\\simpleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\simpleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|d:\\c#code\\consoleapp22\\consoleapp22\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E8CB36-0518-4F31-BD8C-FB6F117F438C}|ConsoleApp22\\ConsoleApp22.csproj|solutionrelative:consoleapp22\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Person.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\Person.cs",
+              "RelativeToolTip": "ConsoleApp22\\Person.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:01:21.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleClass.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\SimpleClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\SimpleClass.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\SimpleClass.cs",
+              "RelativeToolTip": "ConsoleApp22\\SimpleClass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:53:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\Phone.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Phone.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\Phone.cs",
+              "RelativeToolTip": "ConsoleApp22\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:37:50.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp22\\Program.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp22\\ConsoleApp22\\Program.cs",
+              "RelativeToolTip": "ConsoleApp22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:36:51.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\c#Code\ConsoleApp19\ConsoleApp19\bin\Debug\net10.0\ConsoleApp19.exe
+D:\c#Code\ConsoleApp19\ConsoleApp19\bin\Debug\net10.0\ConsoleApp19.deps.json
+D:\c#Code\ConsoleApp19\ConsoleApp19\bin\Debug\net10.0\ConsoleApp19.runtimeconfig.json
+D:\c#Code\ConsoleApp19\ConsoleApp19\bin\Debug\net10.0\ConsoleApp19.dll
+D:\c#Code\ConsoleApp19\ConsoleApp19\bin\Debug\net10.0\ConsoleApp19.pdb
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.AssemblyInfoInputs.cache
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.AssemblyInfo.cs
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.csproj.CoreCompileInputs.cache
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.dll
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\refint\ConsoleApp19.dll
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.pdb
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ConsoleApp19.genruntimeconfig.cache
+D:\c#Code\ConsoleApp19\ConsoleApp19\obj\Debug\net10.0\ref\ConsoleApp19.dll

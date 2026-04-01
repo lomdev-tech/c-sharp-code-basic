@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\ConsoleApp20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A34B37-26D8-42A7-AE06-5F2A4FD737B3}|ConsoleApp20\\ConsoleApp20.csproj|d:\\c#code\\consoleapp20\\consoleapp20\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A34B37-26D8-42A7-AE06-5F2A4FD737B3}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A34B37-26D8-42A7-AE06-5F2A4FD737B3}|ConsoleApp20\\ConsoleApp20.csproj|d:\\c#code\\consoleapp20\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A34B37-26D8-42A7-AE06-5F2A4FD737B3}|ConsoleApp20\\ConsoleApp20.csproj|solutionrelative:consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp20\\ConsoleApp20\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Class1.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp20\\ConsoleApp20\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp20\\Class1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:13:12.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp20\\ConsoleApp20\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp20\\Program.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp20\\ConsoleApp20\\Program.cs",
+              "RelativeToolTip": "ConsoleApp20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:40:18.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

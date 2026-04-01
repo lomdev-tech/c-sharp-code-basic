@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{584201E9-9796-41DF-8EAE-B47FEBF0B5F6}|demo1\\demo1.csproj|d:\\c#code\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{584201E9-9796-41DF-8EAE-B47FEBF0B5F6}|demo1\\demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{584201E9-9796-41DF-8EAE-B47FEBF0B5F6}|demo1\\demo1.csproj|d:\\c#code\\demo1\\demo1\\demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{584201E9-9796-41DF-8EAE-B47FEBF0B5F6}|demo1\\demo1.csproj|solutionrelative:demo1\\demo1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo1",
+              "DocumentMoniker": "D:\\c#Code\\demo1\\demo1\\demo1.csproj",
+              "RelativeDocumentMoniker": "demo1\\demo1.csproj",
+              "ToolTip": "D:\\c#Code\\demo1\\demo1\\demo1.csproj",
+              "RelativeToolTip": "demo1\\demo1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T13:32:12.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code\\demo1\\demo1\\Program.cs",
+              "RelativeDocumentMoniker": "demo1\\Program.cs",
+              "ToolTip": "D:\\c#Code\\demo1\\demo1\\Program.cs",
+              "RelativeToolTip": "demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:28:55.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\ConsoleApp12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D325B59-FDD8-18C1-36B8-7EF5922B4521}|ConsoleApp12\\ConsoleApp12.csproj|d:\\c#code\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D325B59-FDD8-18C1-36B8-7EF5922B4521}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
+              "ToolTip": "D:\\c#Code\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "ConsoleApp12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:11:07.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

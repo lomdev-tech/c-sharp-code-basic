@@ -1,0 +1,14 @@
+D:\c#Code\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.exe
+D:\c#Code\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.deps.json
+D:\c#Code\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.runtimeconfig.json
+D:\c#Code\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.dll
+D:\c#Code\ConsoleApp22\ConsoleApp22\bin\Debug\net10.0\ConsoleApp22.pdb
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.AssemblyInfoInputs.cache
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.AssemblyInfo.cs
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.dll
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\refint\ConsoleApp22.dll
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.pdb
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ConsoleApp22.genruntimeconfig.cache
+D:\c#Code\ConsoleApp22\ConsoleApp22\obj\Debug\net10.0\ref\ConsoleApp22.dll

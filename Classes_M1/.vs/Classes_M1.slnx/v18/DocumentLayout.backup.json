@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\Classes_M1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1E043-E4D2-4A33-955D-3AC35C00292E}|Classes_M1\\Classes_M1.csproj|d:\\c#code\\classes_m1\\classes_m1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1E043-E4D2-4A33-955D-3AC35C00292E}|Classes_M1\\Classes_M1.csproj|solutionrelative:classes_m1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1E043-E4D2-4A33-955D-3AC35C00292E}|Classes_M1\\Classes_M1.csproj|d:\\c#code\\classes_m1\\classes_m1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1E043-E4D2-4A33-955D-3AC35C00292E}|Classes_M1\\Classes_M1.csproj|solutionrelative:classes_m1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1E043-E4D2-4A33-955D-3AC35C00292E}|Classes_M1\\Classes_M1.csproj|d:\\c#code\\classes_m1\\classes_m1\\bankcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1E043-E4D2-4A33-955D-3AC35C00292E}|Classes_M1\\Classes_M1.csproj|solutionrelative:classes_m1\\bankcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\c#Code\\Classes_M1\\Classes_M1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Classes_M1\\BankAccount.cs",
+              "ToolTip": "D:\\c#Code\\Classes_M1\\Classes_M1\\BankAccount.cs",
+              "RelativeToolTip": "Classes_M1\\BankAccount.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T11:03:25.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankCustomer.cs",
+              "DocumentMoniker": "D:\\c#Code\\Classes_M1\\Classes_M1\\BankCustomer.cs",
+              "RelativeDocumentMoniker": "Classes_M1\\BankCustomer.cs",
+              "ToolTip": "D:\\c#Code\\Classes_M1\\Classes_M1\\BankCustomer.cs",
+              "RelativeToolTip": "Classes_M1\\BankCustomer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:09:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code\\Classes_M1\\Classes_M1\\Program.cs",
+              "RelativeDocumentMoniker": "Classes_M1\\Program.cs",
+              "ToolTip": "D:\\c#Code\\Classes_M1\\Classes_M1\\Program.cs",
+              "RelativeToolTip": "Classes_M1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:08:41.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

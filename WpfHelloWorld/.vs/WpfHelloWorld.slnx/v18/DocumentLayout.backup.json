@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code\\WpfHelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4730821-62F9-B95C-556B-6AE4EAE749AC}|WpfHelloWorld\\WpfHelloWorld.csproj|d:\\c#code\\wpfhelloworld\\wpfhelloworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4730821-62F9-B95C-556B-6AE4EAE749AC}|WpfHelloWorld\\WpfHelloWorld.csproj|solutionrelative:wpfhelloworld\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4730821-62F9-B95C-556B-6AE4EAE749AC}|WpfHelloWorld\\WpfHelloWorld.csproj|d:\\c#code\\wpfhelloworld\\wpfhelloworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4730821-62F9-B95C-556B-6AE4EAE749AC}|WpfHelloWorld\\WpfHelloWorld.csproj|solutionrelative:wpfhelloworld\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\c#Code\\WpfHelloWorld\\WpfHelloWorld\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfHelloWorld\\MainWindow.xaml",
+              "ToolTip": "D:\\c#Code\\WpfHelloWorld\\WpfHelloWorld\\MainWindow.xaml",
+              "RelativeToolTip": "WpfHelloWorld\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T13:58:44.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\c#Code\\WpfHelloWorld\\WpfHelloWorld\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfHelloWorld\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\c#Code\\WpfHelloWorld\\WpfHelloWorld\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfHelloWorld\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:58:43.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

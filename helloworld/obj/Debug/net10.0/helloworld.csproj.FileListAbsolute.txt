@@ -1,0 +1,17 @@
+D:\c#Code\helloworld\bin\Debug\net10.0\helloworld.exe
+D:\c#Code\helloworld\bin\Debug\net10.0\helloworld.deps.json
+D:\c#Code\helloworld\bin\Debug\net10.0\helloworld.runtimeconfig.json
+D:\c#Code\helloworld\bin\Debug\net10.0\helloworld.dll
+D:\c#Code\helloworld\bin\Debug\net10.0\helloworld.pdb
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.AssemblyInfoInputs.cache
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.AssemblyInfo.cs
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.csproj.CoreCompileInputs.cache
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.dll
+D:\c#Code\helloworld\obj\Debug\net10.0\refint\helloworld.dll
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.pdb
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.genruntimeconfig.cache
+D:\c#Code\helloworld\obj\Debug\net10.0\ref\helloworld.dll
+D:\c#Code\helloworld\bin\Debug\net10.0\PasswordGenerator.dll
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.csproj.AssemblyReference.cache
+D:\c#Code\helloworld\obj\Debug\net10.0\helloworld.csproj.Up2Date
