@@ -1,0 +1,15 @@
+D:\c#Code-basic\Classes_M2\Classes_M2\bin\Debug\net10.0\Classes_M2.exe
+D:\c#Code-basic\Classes_M2\Classes_M2\bin\Debug\net10.0\Classes_M2.deps.json
+D:\c#Code-basic\Classes_M2\Classes_M2\bin\Debug\net10.0\Classes_M2.runtimeconfig.json
+D:\c#Code-basic\Classes_M2\Classes_M2\bin\Debug\net10.0\Classes_M2.dll
+D:\c#Code-basic\Classes_M2\Classes_M2\bin\Debug\net10.0\Classes_M2.pdb
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.AssemblyInfoInputs.cache
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.AssemblyInfo.cs
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.csproj.CoreCompileInputs.cache
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.sourcelink.json
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.dll
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\refint\Classes_M2.dll
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.pdb
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\Classes_M2.genruntimeconfig.cache
+D:\c#Code-basic\Classes_M2\Classes_M2\obj\Debug\net10.0\ref\Classes_M2.dll

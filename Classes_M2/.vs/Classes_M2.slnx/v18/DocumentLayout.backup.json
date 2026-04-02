@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code-basic\\Classes_M2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestPerson.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\TestPerson.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\TestPerson.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\TestPerson.cs",
+              "RelativeToolTip": "Classes_M2\\TestPerson.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:44:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person1.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person1.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person1.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person1.cs",
+              "RelativeToolTip": "Classes_M2\\Person1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:56:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Manager.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Manager.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Manager.cs",
+              "RelativeToolTip": "Classes_M2\\Manager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:45:38.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Employee.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Employee.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Employee.cs",
+              "RelativeToolTip": "Classes_M2\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:42:29.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person.cs",
+              "RelativeToolTip": "Classes_M2\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:13:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Program.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Program.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Program.cs",
+              "RelativeToolTip": "Classes_M2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:13:13.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Student.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Student.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Student.cs",
+              "RelativeToolTip": "Classes_M2\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:50:54.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
