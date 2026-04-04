@@ -9,7 +9,6 @@ namespace Classes_M1
         public int AccountNumber;//银行卡号
         public double Balance;//余额
         public static double InterestRate;//存储利率
-        public string AccountType = "checking";
         public readonly string CustomerId;//客户ID
         private static int s_nextAccountNumber = 1;//存储下一个账户号码
 
