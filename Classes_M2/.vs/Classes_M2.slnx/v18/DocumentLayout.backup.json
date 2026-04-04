@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\c#Code-basic\\Classes_M2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\classes_m2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\classes_m2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +35,32 @@
       "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person3test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person3test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|d:\\c#code-basic\\classes_m2\\classes_m2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2FB64-3AEB-C91D-A6F1-E8E6B8334BD0}|Classes_M2\\Classes_M2.csproj|solutionrelative:classes_m2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 189,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +78,176 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestPerson.cs",
-              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\TestPerson.cs",
-              "RelativeDocumentMoniker": "Classes_M2\\TestPerson.cs",
-              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\TestPerson.cs",
-              "RelativeToolTip": "Classes_M2\\TestPerson.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Test.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Test.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Test.cs",
+              "RelativeToolTip": "Classes_M2\\Test.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T02:44:28.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T12:36:32.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person5.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person5.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person5.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person5.cs",
+              "RelativeToolTip": "Classes_M2\\Person5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:35:36.04Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Classes_M2.csproj",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Classes_M2.csproj",
+              "RelativeDocumentMoniker": "Classes_M2\\Classes_M2.csproj",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Classes_M2.csproj",
+              "RelativeToolTip": "Classes_M2\\Classes_M2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T11:21:16.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person4Test.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person4Test.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person4Test.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person4Test.cs",
+              "RelativeToolTip": "Classes_M2\\Person4Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:27:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person4.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person4.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person4.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person4.cs",
+              "RelativeToolTip": "Classes_M2\\Person4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:12:20.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Employee.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Employee.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Employee.cs",
+              "RelativeToolTip": "Classes_M2\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:42:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Person1.cs",
               "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person1.cs",
               "RelativeDocumentMoniker": "Classes_M2\\Person1.cs",
               "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person1.cs",
               "RelativeToolTip": "Classes_M2\\Person1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T14:56:47.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T14:56:47.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Person2.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person2.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person2.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person2.cs",
+              "RelativeToolTip": "Classes_M2\\Person2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:21:41.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person3Test.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person3Test.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person3Test.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person3Test.cs",
+              "RelativeToolTip": "Classes_M2\\Person3Test.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:04:42.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person3.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person3.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person3.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person3.cs",
+              "RelativeToolTip": "Classes_M2\\Person3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:54:49.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestPerson.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\TestPerson.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\TestPerson.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\TestPerson.cs",
+              "RelativeToolTip": "Classes_M2\\TestPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:44:28.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Person.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person.cs",
+              "RelativeToolTip": "Classes_M2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:13:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Program.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Program.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Program.cs",
+              "RelativeToolTip": "Classes_M2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:13:13.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Student.cs",
+              "RelativeDocumentMoniker": "Classes_M2\\Student.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Student.cs",
+              "RelativeToolTip": "Classes_M2\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:50:54.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Manager.cs",
               "RelativeDocumentMoniker": "Classes_M2\\Manager.cs",
@@ -81,56 +256,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T14:45:38.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Employee.cs",
-              "RelativeDocumentMoniker": "Classes_M2\\Employee.cs",
-              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Employee.cs",
-              "RelativeToolTip": "Classes_M2\\Employee.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T14:42:29.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person.cs",
-              "RelativeDocumentMoniker": "Classes_M2\\Person.cs",
-              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Person.cs",
-              "RelativeToolTip": "Classes_M2\\Person.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T14:13:53.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Program.cs",
-              "RelativeDocumentMoniker": "Classes_M2\\Program.cs",
-              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Program.cs",
-              "RelativeToolTip": "Classes_M2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T14:13:13.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Student.cs",
-              "RelativeDocumentMoniker": "Classes_M2\\Student.cs",
-              "ToolTip": "D:\\c#Code-basic\\Classes_M2\\Classes_M2\\Student.cs",
-              "RelativeToolTip": "Classes_M2\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T14:50:54.468Z"
             }
           ]
         }

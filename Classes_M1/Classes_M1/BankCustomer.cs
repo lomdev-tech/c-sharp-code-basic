@@ -6,12 +6,23 @@ namespace Classes_M1
 {
      class BankCustomer
     {
-        public string FirstName = "Tim";
-        public string LastName = "Shao";
+        private string _firstName = "Tim";
+        private string _lastName = "Shao";
         public readonly string CustomerId;
 
         private static int s_nextCustomerId;
 
+
+        public string FirstName
+        {
+            get { return _firstName??"N/A"; }
+            set { _firstName = value; }
+        }
+        public string LastName
+        {
+            get { return _lastName ?? "N/A"; }
+            set { _lastName = value; }
+        }
 
         static BankCustomer()
         {

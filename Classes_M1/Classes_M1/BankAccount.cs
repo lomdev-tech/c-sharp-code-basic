@@ -6,12 +6,12 @@ namespace Classes_M1
 {
     public class BankAccount
     {
-        public int AccountNumber;//银行卡号
-        public double Balance;//余额
+        public readonly int AccountNumber;//银行卡号
         public static double InterestRate;//存储利率
         public readonly string CustomerId;//客户ID
         private static int s_nextAccountNumber = 1;//存储下一个账户号码
-
+        public double Balance { get; set; } = 0;//自动实现的属性 初始化值为0
+        public string AccountType { get; set; } = "Checking";
 
 
         public BankAccount(string customerIdNumber)

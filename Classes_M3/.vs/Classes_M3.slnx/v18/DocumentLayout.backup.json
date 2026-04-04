@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#Code-basic\\Classes_M3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|d:\\c#code-basic\\classes_m3\\classes_m3\\paramsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|solutionrelative:classes_m3\\paramsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|d:\\c#code-basic\\classes_m3\\classes_m3\\refswapexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|solutionrelative:classes_m3\\refswapexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|d:\\c#code-basic\\classes_m3\\classes_m3\\byrefexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|solutionrelative:classes_m3\\byrefexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|d:\\c#code-basic\\classes_m3\\classes_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|solutionrelative:classes_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|d:\\c#code-basic\\classes_m3\\classes_m3\\contact2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|solutionrelative:classes_m3\\contact2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|d:\\c#code-basic\\classes_m3\\classes_m3\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFFEE92-07A4-C20A-7863-FEC1EDD7B2AE}|Classes_M3\\Classes_M3.csproj|solutionrelative:classes_m3\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParamsExample.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\ParamsExample.cs",
+              "RelativeDocumentMoniker": "Classes_M3\\ParamsExample.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\ParamsExample.cs",
+              "RelativeToolTip": "Classes_M3\\ParamsExample.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:39:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefSwapExample.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\RefSwapExample.cs",
+              "RelativeDocumentMoniker": "Classes_M3\\RefSwapExample.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\RefSwapExample.cs",
+              "RelativeToolTip": "Classes_M3\\RefSwapExample.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:18:39.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ByRefExample.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\ByRefExample.cs",
+              "RelativeDocumentMoniker": "Classes_M3\\ByRefExample.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\ByRefExample.cs",
+              "RelativeToolTip": "Classes_M3\\ByRefExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:53:28.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact2.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\Contact2.cs",
+              "RelativeDocumentMoniker": "Classes_M3\\Contact2.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\Contact2.cs",
+              "RelativeToolTip": "Classes_M3\\Contact2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:27:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\Contact.cs",
+              "RelativeDocumentMoniker": "Classes_M3\\Contact.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\Contact.cs",
+              "RelativeToolTip": "Classes_M3\\Contact.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:25:39.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\Program.cs",
+              "RelativeDocumentMoniker": "Classes_M3\\Program.cs",
+              "ToolTip": "D:\\c#Code-basic\\Classes_M3\\Classes_M3\\Program.cs",
+              "RelativeToolTip": "Classes_M3\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:25:05.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

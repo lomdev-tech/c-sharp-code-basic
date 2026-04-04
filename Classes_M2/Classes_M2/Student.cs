@@ -9,8 +9,10 @@ namespace Classes_M2
         private string? _name;
         public string Name {
 
-            get{ return _name!=null?_name:"N/A"; }//get访问器
-            set { _name = value; }//set访问器
+            //get{ return _name!=null?_name:"N/A"; }//get访问器
+            //set { _name = value; }//set访问器
+            get =>_name ?? "N/A"; //get访问器
+            set => _name = value;
         }
     }
 }

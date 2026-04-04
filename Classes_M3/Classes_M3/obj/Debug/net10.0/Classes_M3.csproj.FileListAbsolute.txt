@@ -1,0 +1,15 @@
+D:\c#Code-basic\Classes_M3\Classes_M3\bin\Debug\net10.0\Classes_M3.exe
+D:\c#Code-basic\Classes_M3\Classes_M3\bin\Debug\net10.0\Classes_M3.deps.json
+D:\c#Code-basic\Classes_M3\Classes_M3\bin\Debug\net10.0\Classes_M3.runtimeconfig.json
+D:\c#Code-basic\Classes_M3\Classes_M3\bin\Debug\net10.0\Classes_M3.dll
+D:\c#Code-basic\Classes_M3\Classes_M3\bin\Debug\net10.0\Classes_M3.pdb
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.AssemblyInfoInputs.cache
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.AssemblyInfo.cs
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.csproj.CoreCompileInputs.cache
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.sourcelink.json
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.dll
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\refint\Classes_M3.dll
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.pdb
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\Classes_M3.genruntimeconfig.cache
+D:\c#Code-basic\Classes_M3\Classes_M3\obj\Debug\net10.0\ref\Classes_M3.dll
